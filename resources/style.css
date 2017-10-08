@@ -4,6 +4,7 @@ body{
 }
  .flatiron{
   background-image: url("images/flatiron-building.png");
+  image-orientation:
 }
 .links{
   font-size: 18px;
@@ -23,11 +24,10 @@ h3{
   font-weight: bold;
   color: white;
 }
-.Copyright{
-font-size: 11px;
-color: white;
-}
+
 .extra{
   background-color: dimgray;
   text-align: left;
+  color: white;
+  font-size: 11px;
 }

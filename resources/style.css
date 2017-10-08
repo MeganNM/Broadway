@@ -5,7 +5,7 @@ body{
  .flatiron{
   background-image: url("images/flatiron-building.png");
 }
-div p{
+.links{
   font-size: 18px;
   color: white;
 }
@@ -13,4 +13,21 @@ h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+.designed{
+  Font-size: 23px:
+  font-weight: bold;
+  color: white;
+}
+.Copyright{
+font-size: 11px;
+color: white;
+}
+.extra{
+  background-color: dimgray;
+  text-align: left;
 }
